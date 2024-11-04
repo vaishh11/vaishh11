@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Student!!<br>Passionate about technology and innovation✨
+I'm Vaishali U!!<br>Passionate about technology and innovation✨
 
 
 # 💻 Tech Stack:
