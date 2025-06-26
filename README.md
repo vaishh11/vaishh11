@@ -1,7 +1,5 @@
-<h1 align="center">✨ Welcome to My GitHub!</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=I'm+Vaishali!;Growing+with+Technology+🌱;Curious+Mind+Exploring+Code+💻;Crafting+Ideas+into+Reality+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=I'm+Vaishali;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
 ---
